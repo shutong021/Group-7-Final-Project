@@ -1,6 +1,6 @@
 # Measuring AI Patent Enforceability with Large Language Models: Evidence from *Recentive*
 
-This repository contains the research proposal, presentation slides, code, and pilot output for a course final project. The project examines how the U.S. Federal Circuit's April 2025 ruling in *Recentive Analytics, Inc. v. Fox Corp.* — which contracts the expected enforceability of applied-only machine-learning patent claims that affects the architecture of syndicated loan contracts for AI-patenting U.S. firms.
+This repository contains the research proposal, presentation slides, code, and pilot output for a course final project. The project examines how the U.S. Federal Circuit's April 2025 ruling in *Recentive Analytics, Inc. v. Fox Corp.*,  which contracts the expected enforceability of applied-only machine-learning patent claims that affects the architecture of syndicated loan contracts for AI-patenting U.S. firms.
 
 The core measurement contribution is a patent-level **Recentive Vulnerability Score** constructed using a large language model (DeepSeek-Reasoner) that operationalizes the Federal Circuit's two-step *Alice* test as a continuous [0,1] measure of textual resemblance to *Recentive*-vulnerable claim language.
 
