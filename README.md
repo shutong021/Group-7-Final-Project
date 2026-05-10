@@ -8,7 +8,7 @@ The core measurement contribution is a patent-level **Recentive Vulnerability Sc
 
 ```
 ├── 01_Paper/
-│   └── Final_Project_Paper            Research proposal write-up (PDF/DOCX)
+│   └── Final_Project_Paper            Research proposal write-up PDF
 │
 ├── 02_Slides/
 │   └── Final_Project_Slides           Presentation slides
